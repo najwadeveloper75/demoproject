@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "source-folder",
+            "default": true,
+            "package": "HCpackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "HCnamespace",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "HCpackage": "0Ho4x000000KyjfCAC",
+        "HCpackage@0.1.0-1": "04t4x000000kjqNAAQ",
+        "HCpackage@0.1.0-3": "04t4x000000kjyxAAA"
+    }
+}
