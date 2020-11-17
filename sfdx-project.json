@@ -4,8 +4,9 @@
             "path": "source-folder",
             "default": true,
             "package": "HCpackage",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "ver 0.2",
+            "versionNumber": "0.2.0.NEXT",
+            "ancestorId": "04t4x000000kjyxAAA"
         }
     ],
     "namespace": "HCnamespace",
@@ -14,6 +15,7 @@
     "packageAliases": {
         "HCpackage": "0Ho4x000000KyjfCAC",
         "HCpackage@0.1.0-1": "04t4x000000kjqNAAQ",
-        "HCpackage@0.1.0-3": "04t4x000000kjyxAAA"
+        "HCpackage@0.1.0-3": "04t4x000000kjyxAAA",
+        "HCpackage@0.2.0-1": "04t4x000000kkzIAAQ"
     }
 }
